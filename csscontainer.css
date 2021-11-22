@@ -1,0 +1,22 @@
+#container {
+    display: flex;
+}
+.box1 {
+    padding: 10px;
+    background-color: aqua;
+}
+.box2 {
+    padding: 10px;
+    background-color: red;
+}
+.box3 {
+    padding: 10px;
+    background-color: burlywood;
+}
+.box4 {
+    padding: 10px;
+    background-color: yellowgreen;
+}.box5 {
+    padding: 10px;
+    background-color: pink;
+}
