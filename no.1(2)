@@ -1,0 +1,6 @@
+print("2.7 no.1")
+print("\n")
+print(24, 45)
+print("%s", "hai")
+print("%s"+ "hai")
+print("%s"% "hai")
